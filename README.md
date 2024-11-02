@@ -74,3 +74,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 8. How many user-suggested improvements have been implemented?
 9. What is the app's current rating on app stores?
 10. How many languages is the app currently available in?
+
+## Key Questions
+1. 
+2. How many users are actively using the app?
+3. What is the most frequently used feature in the app?
+4. How many tuning methods have been integrated into the app?
+5. What is the average time saved per tuning using the app?
+6. How many technical references have been added to the library?
+7. What percentage of users are using the app offline?
+8. How many user-suggested improvements have been implemented?
+9. What is the app's current rating on app stores?
+10. How many languages is the app currently available in?
