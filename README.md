@@ -4,12 +4,13 @@ A digital toolkit for piano technicians, developed by Dr. Willis Glen "Chip" Mil
 
 ## About the Developer
 
-As a professional piano technician and concert pianist, I bring extensive experience in piano maintenance and performance to this project. My background includes:
+I bring over three decades of experience in piano maintenance and performance to this project. My background includes:
 
-- Professional piano technician services throughout New Mexico
-- Concert pianist with extensive performance experience
-- Piano teacher offering both online and in-person instruction
-- Expert in piano maintenance and care
+- Professional piano tuning since 1992, serving thousands of musicians
+- Doctorate in piano performance
+- Specialization in tuning methods for romantic-era music
+- Successor to Jean-Luc Matton's established 30-year business in Albuquerque
+- Comprehensive experience with homes, schools, concerts, and religious organizations
 
 ## Project Description
 
@@ -17,11 +18,12 @@ The Piano Tech Assistant is designed to provide piano technicians with digital t
 
 ### Core Features
 
-- Digital tuning assistance
+- Digital tuning assistance with focus on romantic-era tuning methods
 - Pitch analysis tools
 - Regulation measurement guides
 - Inventory management for parts and supplies
 - Technical reference library
+- Scheduling and client management system
 
 ### Technical Specifications
 
@@ -32,24 +34,27 @@ The Piano Tech Assistant is designed to provide piano technicians with digital t
 
 ## Professional Services
 
-While this toolkit aids in piano maintenance, I also offer comprehensive piano services including:
+I offer comprehensive piano services throughout New Mexico, including:
 
 - Piano tuning and regulation
 - Action repair and adjustment
-- Comprehensive piano maintenance
+- Voicing services
+- Humidity control solutions
 - Concert preparation and performance support
 - Professional consultation for piano care
 
 ## Contact Information
 
 For professional piano tuning and maintenance services:
-- Website: [chipmillerpiano.com](https://chipmillerpiano.com)
+- Phone: 505-600-1077
+- Email: wgmilleriii@gmail.com
+- Website: [albuquerque-piano-tuning.com](https://albuquerque-piano-tuning.com)
 - Location: Albuquerque, New Mexico
-- Services: Piano Tuning, Maintenance, and Instruction
+- Services: Piano Tuning, Repair, and Maintenance
 
 ## Development Status
 
-This project is in active development, with new features and improvements being added regularly based on feedback from professional piano technicians.
+This project is in active development, with new features and improvements being added regularly based on decades of professional experience and feedback from the piano maintenance community.
 
 ## Contributing
 
